@@ -34,7 +34,3 @@ for p_job in python_jobs:
     print(f"Apply here: {link}\n")
 
 
-
-print("hello")
-
-
